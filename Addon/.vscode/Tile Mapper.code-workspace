@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Addon",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"editor.fontFamily": "'Roboto Mono'",
+		"lifeboatapi.stormworks.isAddonProject": true
+	}
+}
